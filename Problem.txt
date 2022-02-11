@@ -1,0 +1,80 @@
+Problem Statement 1: 
+ 	 
+In Southeast Asia, food waste is discharged daily from factories, restaurants, supermarkets, etc. 
+This waste has potential to be reused as an organic resource providing it can be transformed with the correct technology. 
+Collection of the food waste from such areas and categorizing them to what they can be used into is a major task for this problem statement.
+It is found that there is discharge of food waste daily from various types of places i.e. restaurants, factories, supermarkets etc.
+Most of this food waste are either dumped or destroyed by some means. We want this food waste to be reused in such a manner that it can be helpful for the society.
+Food waste reusability can highly boost the economical sector of the country.We are looking for ideas to reuse food waste as a consumable organic resource or ideas 
+in Digital management or Effective Use of Waste Material for the Food and Beverage Industry(e.g. Factory, Restaurant, Supermarket, Warehouse, Building and so on) and 
+its supply chain. Some issues which could be tackled under this category include, but are not restricted to, the following: Biogas power generation, 
+Compost, Transforming food waste into animal feed.
+
+Central 
+Problem Statement 2 
+245 Ministry of Micro, Small & Medium Enterprises (MSME).	
+App-Based solution to identify & solve disease in plants/crops
+Software	
+RK1129
+Agriculture, FoodTech & Rural Development
+Desc:- Farmers can upload the photographs of disease affected plants/crops and solutions may be provided by experts/scientists linked to the app.
+Solution:- 
+Article link :- https://towardsdatascience.com/crop-plant-disease-identification-using-mobile-app-aef821d1a9bc 
+GitHub link:- https://github.com/digitalepidemiologylab/plantvillage_deeplearning_paper_analysis.git
+
+Problem Statement 3 
+256 Ministry of Ports, Shipping & Waterways 
+Detecting Covid-19 (using face recognition) suspects in crowd, at the school/office Building entrance along with their attendance and other alerts.	
+Software	
+AK1146	
+Transportation & Logistics
+Desc:-
+"• Description: Build a face detection-based solution which can identify the temperature of the people entering a building in groups, where individual body temp. check is not possible using CCTV feeds. 
+• Build a face detection-based solution which can identify student/employee and cross check with database repository, using CCTV feeds. The solution should include the following features: 
+• Identify student/employee whose faces may be partially visible due to the varying angles at which CCTV cameras are typically placed 
+• Handle people of different age, skin colour, gender and facial structure 
+• Identify suspects with over 90% accuracy based on photographs of suspects provided as input 
+• Throw an alert in real time as soon as ananyone in the crowd has a body temperature beyond the normal temperature, is detected. The video and associated timestamps should also be highlighted. 
+• The system should also send alert of the student/employee who have not wear mask, to the Deptt. Head/organisation head, along with the individual, as a caution.
+• The attendance of the individual will also be registered through the CCTV feed and the data passed on to the Payroll system, for salary calculation and leave management applications. 
+• Search for multiple individuals within multiple CCTV feeds concurrently."
+
+
+Problem Statement 4 
+265 National Council of Educational Research and Training (NCERT), Department of School Education & Literacy (DoSEL).
+To maintain and enjoy healthy relationships with others.
+Software
+KH1155	
+Desc:- "1. Developing effective communication skills 
+2. Developing interpersonal skills 
+3. Developing empathy (perspective taking) 
+4. Accepting and respecting others Ways to nurture positive relationships 
+ 1. Enhancing self-awareness 
+ 2. Practicing communication 
+ 3. Building trust 
+ 4. Health ways of dealing with conflicts Outcome Students will have a better understanding of relationships and will be able to build and maintain healthy and nurturing relationships with people around them.
+ Target Group (stage wise) [1.] School level a. Foundational stage b. Preparatory stage c. Middle stage d. Secondary stage [2.] College / University level a. Youth"
+
+
+Problem Statement 5
+277 Defence Research and Development Organisation (DRDO), Ministry of Defence.
+Develop Solution/Application to regulate Private health care sector in India from exploiting people during medical emergencies and pandemic situations.
+Software 
+NR1168
+MedTech / BioTech / HealthTech
+Desc:- During Covid – 19 crisis, many private hospitals had charged huge and unimaginable amounts from patients and made enormous profits taking advantage of panic conditions.
+Notwithstanding of spending huge amounts many families lost their members and in some instances hospitals even demanded clearance of pending bills for handing over bodies to their families.
+There was no proper information about availability of beds and details of treatment provided etc.
+In order to curb this exploitation by private hospitals, there is a requirement of national information portal 
+which can regulate all the private hospitals and provide accurate details of rates and medical facilities available 
+in the private hospitals across the country to guide the citizens to get affordable medical emergency services as per their choice and availability.
+
+
+Problem Statement 6 
+302 eCourts, Department of Justice, Ministry of Law & Justice Department of Justice, Ministry of law & Justice.
+Software
+AK1222dwgsdgadg
+DESC:- Several affidavits and affirmations are submitted by the witnesses during the court proceedings. 
+It takes long time to validate these affidavits and affirmations. 
+A Software/algorithm should be developed that uses technologies like face recognition and other biometric recognition to provide authentication of the affidavits and affirmations. 
+This will help in delivery of right justice in a faster manner
