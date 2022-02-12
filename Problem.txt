@@ -22,6 +22,7 @@ Solution:-
 Article link :- https://towardsdatascience.com/crop-plant-disease-identification-using-mobile-app-aef821d1a9bc 
 GitHub link:- https://github.com/digitalepidemiologylab/plantvillage_deeplearning_paper_analysis.git
 
+Nothing 
 Problem Statement 3 
 256 Ministry of Ports, Shipping & Waterways 
 Detecting Covid-19 (using face recognition) suspects in crowd, at the school/office Building entrance along with their attendance and other alerts.	
@@ -39,7 +40,7 @@ Desc:-
 • The attendance of the individual will also be registered through the CCTV feed and the data passed on to the Payroll system, for salary calculation and leave management applications. 
 • Search for multiple individuals within multiple CCTV feeds concurrently."
 
-
+Remaini
 Problem Statement 4 
 265 National Council of Educational Research and Training (NCERT), Department of School Education & Literacy (DoSEL).
 To maintain and enjoy healthy relationships with others.
