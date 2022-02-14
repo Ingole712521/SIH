@@ -1,0 +1,25 @@
+Statement:
+Background: The solution is to provide alternative and effective communicative strategies to enable successful communication with fellow humans. People with Speech disability need to conclude with everyone around in best-way possible.
+
+Summary: Many people with hearing loss/ speech disability experience a drop in self-esteem and confidence because of their impaired ability to communicate with other people. Having difficulties in speaking can also limit one’s ability to learn and speak a new language; it is crucial that alternative accessibility solutions are provided to ensure these persons use good communication strategies. There should be an effective strategy to enable communication of speech impaired people with their surroundings. 
+
+Objective: 
+1. Develop real time solutions for interpretation of speech via a sign language interpreter and provide synthesize voice output, text to speech and vice versa functionality 
+2. Development of virtual picture boards and communication solutions in all public places for effective communication
+
+Dataset:
+https://www.kaggle.com/vaishnaviasonawane/indian-sign-language-dataset
+https://zenodo.org/record/4010759#.YgniNt_P1PY
+
+Articles:
+https://cse.iitk.ac.in/users/cs365/2015/_submissions/vinsam/slides.pdf
+https://dl.acm.org/doi/10.1145/3394171.3413528
+
+
+Video Referance:
+https://www.youtube.com/watch?v=iRcfR87DJoo
+https://www.youtube.com/watch?v=523smwZrlc4
+https://www.youtube.com/watch?v=CUH8GQuuELA
+https://www.youtube.com/watch?v=bVtvBx_C3N0
+https://www.youtube.com/watch?v=K8nD0j2YPuk
+https://www.youtube.com/watch?v=pDXdlXlaCco
