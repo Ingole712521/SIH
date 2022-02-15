@@ -14,7 +14,9 @@ https://zenodo.org/record/4010759#.YgniNt_P1PY
 Articles:
 https://cse.iitk.ac.in/users/cs365/2015/_submissions/vinsam/slides.pdf
 https://dl.acm.org/doi/10.1145/3394171.3413528
-
+https://gongster.medium.com/how-does-a-neural-network-work-intuitively-in-code-f51f7b2c1e3f
+https://gongster.medium.com/building-a-simple-artificial-neural-network-with-keras-in-2019-9eccb92527b1
+https://medium.com/nybles/a-brief-guide-to-convolutional-neural-network-cnn-642f47e88ed4
 
 Video Referance:
 https://www.youtube.com/watch?v=iRcfR87DJoo
